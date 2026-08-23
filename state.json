@@ -1,0 +1,26 @@
+{
+  "/": {
+    "down": false,
+    "since": null
+  },
+  "/play": {
+    "down": false,
+    "since": null
+  },
+  "/explore": {
+    "down": false,
+    "since": null
+  },
+  "/shop": {
+    "down": false,
+    "since": null
+  },
+  "/docs": {
+    "down": false,
+    "since": null
+  },
+  "/ideas": {
+    "down": false,
+    "since": null
+  }
+}
