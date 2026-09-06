@@ -4,23 +4,23 @@
     "since": null
   },
   "/play": {
-    "down": false,
-    "since": null
+    "down": true,
+    "since": "2026-09-06T00:00:38.906Z"
   },
   "/explore": {
-    "down": false,
-    "since": null
+    "down": true,
+    "since": "2026-09-06T00:00:38.906Z"
   },
   "/shop": {
-    "down": false,
-    "since": null
+    "down": true,
+    "since": "2026-09-06T00:00:38.906Z"
   },
   "/docs": {
     "down": false,
     "since": null
   },
   "/ideas": {
-    "down": false,
-    "since": null
+    "down": true,
+    "since": "2026-09-06T00:00:38.906Z"
   }
 }
